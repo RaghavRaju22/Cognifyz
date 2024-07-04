@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+}
+.heading{
+    background: gold;
+	border: 2px solid blue;
+    text-align: center ;
+	
+}
+.d:hover{
+    background: gray;
+	border: 2px solid gold;
+}
+.sub:hover{
+    background-color: aqua;
+}

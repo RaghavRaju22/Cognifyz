@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+.heading{
+    background-color: tan;
+    border: 2px solid black;
+    text-align: center;
+}
+.para{
+    border: 2px solid blue;
+    text-align: center;
+}
+.img{
+    align-content: center;
+    margin-left: 200px;
+}
+.img:hover{
+    align-content: center;
+    border: 4px solid orange;
+    margin-left: 200px;
+}
