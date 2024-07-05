@@ -1,0 +1,25 @@
+nav{
+    background-color: blue;
+}
+.navbar ul{
+    list-style-type: none;
+    overflow: hidden;
+}
+.heading{
+    color: beige;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: gray;
+}
+.links
+{
+    margin-left: 800px;
+}
+.navbar a{
+    text-decoration: none;
+    color: beige;
+    padding: 10px;
+    display: block;
+    float: left;
+}
